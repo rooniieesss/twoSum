@@ -1,15 +1,4 @@
 <?php
-function twoSums($nums, $target) {
-    $comp = [];
-
-    for ($i = 0; $i < count($nums); $i++ ) {
-        if ($comp[$nums[$i]] >= 0) {
-            return [$comp[$nums[$i]], $i];
-        }
-        $comp[$target-$nums[$i]] = $i;
-    }
-}
-
 function twoSum(array $nums, int $target): array
 {
     foreach ($nums as $key => $val) {
