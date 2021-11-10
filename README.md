@@ -1,0 +1,1 @@
+1. Answer Number 1 (Logic) about two sums
