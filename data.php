@@ -6,4 +6,3 @@ add function A
 
 
 add function D
-add function E
