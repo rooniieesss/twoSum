@@ -6,3 +6,5 @@ add function 2 on ddev
 add fitur tambah sepeda
 
 add fitur motor
+
+add fitur mobil
