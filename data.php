@@ -4,6 +4,5 @@ add function 2 on ddev
 
 add function A
 
-
 add function D
 add function E
