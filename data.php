@@ -5,6 +5,6 @@ add function 2 on ddev
 <!-- format baru -->
 add fitur tambah sepeda
 
-add fitur motor
+add fitur motor + spion motor
 
 add fitur mobil + spion mobil
