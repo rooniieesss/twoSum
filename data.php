@@ -9,5 +9,8 @@ add fitur motor + spion motor
 
 add fitur mobil + spion mobils
 
+<!-- release v.1 -->
+add module report
+
 
 <!-- sebelum revert -->
